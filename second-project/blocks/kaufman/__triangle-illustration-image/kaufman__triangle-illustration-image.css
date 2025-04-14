@@ -1,0 +1,9 @@
+.kaufman__triangle-illustration-image {
+  display: flex;
+  width: 877px;
+  height: 877px;
+  object-fit: contain;
+  margin: 0;
+  padding: 0;
+  z-index: -1;
+}

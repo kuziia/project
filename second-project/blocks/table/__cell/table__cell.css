@@ -1,0 +1,6 @@
+.table__cell {
+  width: 250px;
+  text-align: left;
+  gap: 20px;
+  margin-bottom: 0;
+}
